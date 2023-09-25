@@ -8,11 +8,11 @@
 - 💞️ I’m actually looking for my first job as a web developer!
 
 - 🎸 I'm working on a few personal projects at the moment as well. First, my personal website but also working with my team on our group project started at Le Wagon and that we are trying to push.
--     First, to learn, but also to keep that project alive. "Hide N'Seek", coming soon.
+First, to learn, but also to keep that project alive. "Hide N'Seek", coming soon.
   
 - 📫 How to reach me:
--     You can absolutely  contact me through my email address : adrien.regis@gmail.com
--     And in the weeks to come, through my personal website : www.adrien-regis.site
+You can absolutely  contact me through my email address : adrien.regis@gmail.com
+And in the weeks to come, through my personal website : www.adrien-regis.site
 
 <!---
 Reaven23/Reaven23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
