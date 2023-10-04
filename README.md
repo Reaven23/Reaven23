@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrien,
   After a 10 year carreer in education, I decided to change path and freshly became a web developer thanks to @le_Wagon's bootcamp. 
   
-- 👀 I’m interested in quite a lot of things and tend to find and get myself new passions as life passes by. Coding would be the newest one among many othors: basketball, music, magic, mechanic, golfing, collecting musical instruments....
+- 👀 I’m interested in quite a lot of things and tend to find and get myself new passions as life passes by. Coding would be the newest one among many others: basketball, music, magic, mechanic, golfing, collecting musical instruments....
   
 - 🌱 I’m currently learning typescript and node JS to top the incredible training I had on Ruby and ROR at @le_Wagon. 
   
