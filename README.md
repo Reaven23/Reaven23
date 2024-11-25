@@ -3,12 +3,11 @@
   
 - 👀 I’m interested in quite a lot of things and tend to find and get myself new passions as life passes by. Coding would be the newest one among many others: basketball, music, magic, mechanic, golfing, collecting musical instruments....
   
-- 🌱 I’m currently learning typescript and node JS to top the incredible training I had on Ruby and ROR at @le_Wagon. 
+- 🌱 I’m currently working on a Book Suggestion Delivery web app, using React.JS and Next.JS frameworks, to get to lay hand on Typescript and JS frameworks to top the incredible training I had on Ruby and ROR at @le_Wagon. 
   
-- 💞️ I’m actually looking for my first job as a web developer!
+- 💞️ I’m actually working as a Freelancer, mostly doing nocode, which is not what I like best but hey, gotta pay the bills and this still is a great experience!
 
-- 🎸 I'm working on a few personal projects at the moment as well. First, my personal website but also working with my team on our group project started at Le Wagon and that we are trying to push.
-First, to learn, but also to keep that project alive. "Hide N'Seek", coming soon.
+- 🎸 I'm working on a few personal projects at the moment as well. First, my personal website but also a basketball game which will be online soon and that Book Suggestion Delivery website for people who like reading and need new and fresh good reads !
   
 - 📫 How to reach me:
 You can absolutely  contact me through my email address : adrien.regis@gmail.com
