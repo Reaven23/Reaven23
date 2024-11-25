@@ -8,6 +8,8 @@
 - 💞️ I’m actually working as a Freelancer, mostly doing nocode, which is not what I like best but hey, gotta pay the bills and this still is a great experience!
 
 - 🎸 I'm working on a few personal projects at the moment as well. First, my personal website but also a basketball game which will be online soon and that Book Suggestion Delivery website for people who like reading and need new and fresh good reads !
+
+- 👨‍💻 Last but not least, driven by my passion for learning, I joined 42 as a student after successfully completing the summer piscine. I'm thrilled to deepen my understanding of programming through the foundational and powerful C language.
   
 - 📫 How to reach me:
 You can absolutely  contact me through my email address : adrien.regis@gmail.com
