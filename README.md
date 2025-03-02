@@ -71,8 +71,7 @@ A **React.js and Next.js** project designed to suggest and deliver curated book 
 A collection of my **École 42 projects**, reflecting my skills in **low-level programming, algorithms, and system architecture**.
 
 🔹 **Tech Stack:** C, Shell Scripting, Algorithms, Data Structures
-🔹 [🔗 42 Projects Repo](https://github.com/Reaven23/42-Projects)
-
+🔹 [🔗 42 Projects Repo](https://github.com/Reaven23/PProject_42)
 ---
 
 ## 📊 My GitHub Stats
