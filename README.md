@@ -11,10 +11,10 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and m
 ## 📫 Contact Me
 <div align="center">
 
-[![Résumé (CV)](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0d1117?style=for-the-badge)](https://your-cv-link.com)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=envelope&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
+[![Résumé (CV)](https://www.adrien-regis.site/telecharger-cv)]
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=envelope&logoColor=white)](mailto:adrien.regis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrien-regis)
+
 
 </div>
 
