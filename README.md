@@ -24,9 +24,9 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and m
 
 - **Languages & Frameworks:** Ruby on Rails, JavaScript, Stimulus.js, C, Shell Scripting, Next.js, React, Bootstrap, CSS/SCSS
 - **Backend & Databases:** PostgreSQL, Devise authentication, API integration
-- **CI/CD & Deployment:** Git, Heroku, Netlify, Docker
-- **Cloud & Infrastructure:** AWS, Webflow (for no-code projects)
-- **Automation & Scripting:** Shell scripting, Python
+- **CI/CD & Deployment:** Git, Heroku
+- **Cloud & Infrastructure:** Webflow (for no-code projects)
+- **Automation & Scripting:** Shell scripting
 - **Version Control & Collaboration:** Git, GitHub Actions
 
 ---
