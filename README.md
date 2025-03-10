@@ -37,7 +37,7 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and m
 - Ability to design and implement **scalable web applications**
 - Self-learning and adaptability to new technologies
 - Effective communication of **technical concepts** to various audiences
-- Experience in working with **clients, startups, and entrepreneurs**
+- Experience in working with people, people management
 
 ---
 
