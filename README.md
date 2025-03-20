@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Adrien!
 
-After a **10-year career in education**, I decided to shift gears and fully embrace my passion for **web development**. Thanks to **Le Wagon's bootcamp**, I gained solid expertise in **Ruby on Rails** and started my journey as a **freelance web developer**.
+After a **10-year career in education**, I decided to shift gears and fully embrace my passion for **web development**. Thanks to **Le Wagon's bootcamp**, I gained  expertise in **Ruby on Rails** and started my journey as a **freelance web developer**.
 
-I am currently refining my skills at **École 42**, an intensive, project-based program that enhances my problem-solving abilities and deepens my understanding of **low-level programming and system architecture**.
+I am currently refining my skills at **École 42**, an intensive, project-based program that improves my problem-solving abilities and deepens my understanding of **low-level programming and system architecture** and globally strengthen my core understanding of developping concepts I used without fully understanding them.
 
-Beyond coding, I have a wide range of interests, from **basketball, music, and magic** to **mechanics, golf, and collecting musical instruments**. I love discovering new passions and challenging myself with different disciplines.
+Beyond coding, I have a wide range of interests, from **basketball, music, and sports in general** to **mechanics, languages, and collecting musical instruments**. I love discovering new things and challenging myself with different disciplines.
 
 ---
 
@@ -22,7 +22,7 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and m
 
 ## 🛠 Hard Skills
 
-- **Languages & Frameworks:** Ruby on Rails, JavaScript, Stimulus.js, C, Shell Scripting, Next.js, React, Bootstrap, CSS/SCSS
+- **Languages & Frameworks:** Ruby on Rails, JavaScript, Stimulus.js, C, Shell Scripting, Next.js, Bootstrap, CSS/SCSS
 - **Backend & Databases:** PostgreSQL, Devise authentication, API integration
 - **CI/CD & Deployment:** Git, Heroku
 - **Cloud & Infrastructure:** Webflow (for no-code projects)
@@ -33,8 +33,7 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and m
 
 ## 💡 Soft Skills
 
-- Strong problem-solving and debugging capabilities
-- Ability to design and implement **scalable web applications**
+- Problem-solving and debugging capabilities
 - Self-learning and adaptability to new technologies
 - Effective communication of **technical concepts** to various audiences
 - Experience in working with people, people management
@@ -50,7 +49,7 @@ A gamified web application aimed at increasing fan engagement through interactiv
 🔹 [🔗 Live Demo](https://www.findtheplayer.quest)
 
 ### 🛒 Les Pépites d'Elo
-Digital transformation of a **physical store in Amiens**, optimizing online presence to maximize sales.
+Digital transformation of a **clothes store with a mother/daughter matchy matchy concept** in Amiens, optimizing online presence to maximize sales.
 
 🔹 **Tech Stack:** Shopify, Liquid, JavaScript, Embedded CSS
 🔹 [🔗 Visit Store](https://lespepitesdelo.com/)
