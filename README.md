@@ -76,10 +76,10 @@ A collection of my **École 42 projects**, reflecting my skills in **low-level p
 
 ## 📊 My GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reaven23&theme=transparent&show_icons=true&layout=compact&line_height=25&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117&custom_title=My%20GitHub%20stats%20%26%20most%20used%20languages&width=250"
+    <img src="https://github-readme-stats.vercel.app/api?username=Reaven23&theme=transparent&show_icons=true&layout=compact&line_height=25&title_color=fff&text_color=e6edf3&icon_color=9f9f9f&bg_color=0d1117&custom_title=My%20GitHub%20stats%20%26%20most%20used%20languages&width=250&cache_seconds=1"
             alt="GitHub Stats"
             height=195>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaven23&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true&chart_width=200"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaven23&langs_count=5&theme=transparent&layout=donut&hide_border=false&title_color=fff&text_color=e6edf3&bg_color=0d1117&hide_title=true&chart_width=200&cache_seconds=1"
             alt="Top Languages"
             height=195/>
 </div>
