@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adrien!
 
-After a **10-year career in education**, I decided to shift gears and fully embrace my passion for **web development**. Thanks to **Le Wagon's bootcamp**, I gained  expertise in **Ruby on Rails** and started my journey as a **freelance web developer**.
+After a **10-year career in education**, I decided to shift gears and fully embrace my passion for **web development**. Thanks to **Le Wagon's bootcamp**, I gained expertise in **Ruby on Rails** and started my journey as a **freelance web developer**.
 
-I am currently refining my skills at **École 42**, an intensive, project-based program that improves my problem-solving abilities and deepens my understanding of **low-level programming and system architecture** and globally strengthen my core understanding of developping concepts I used without fully understanding them.
+I am currently refining my skills at **École 42**, an intensive, project-based program that improves my problem-solving abilities and deepens my understanding of **low-level programming and system architecture**, while strengthening my grasp of fundamental programming concepts.
 
 Beyond coding, I have a wide range of interests, from **basketball, music, and sports in general** to **mechanics, languages, and collecting musical instruments**. I love discovering new things and challenging myself with different disciplines.
 
@@ -11,10 +11,9 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and s
 ## 📫 Contact Me
 <div align="center">
 
-[![CV (CV)](https://img.shields.io/badge/CV-0d1117?style=for-the-badge)](https://www.adrien-regis.site/telecharger-cv)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=envelope&logoColor=white)](mailto:adrien.regis@gmail.com)
+[![CV (CV)](https://img.shields.io/badge/CV-0d1117?style=for-the-badge)](https://www.adrien-regis.site/telecharger-cv)  
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=envelope&logoColor=white)](mailto:adrien.regis@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrien-regis)
-
 
 </div>
 
@@ -22,55 +21,68 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and s
 
 ## 🛠 Hard Skills
 
-- **Languages & Frameworks:** Ruby on Rails, JavaScript, Stimulus.js, C, Shell Scripting, Next.js, Bootstrap, CSS/SCSS
-- **Backend & Databases:** PostgreSQL, Devise authentication, API integration
-- **CI/CD & Deployment:** Git, Heroku
-- **Cloud & Infrastructure:** Webflow (for no-code projects)
-- **Automation & Scripting:** Shell scripting
-- **Version Control & Collaboration:** Git, GitHub Actions
+- **Languages & Frameworks:** Ruby on Rails, JavaScript, Stimulus.js, C, Shell Scripting, Next.js, Bootstrap, CSS/SCSS, Liquid  
+- **Backend & Databases:** PostgreSQL, Devise authentication, Pundit (authorization), API integration  
+- **Frontend & UX:** Hotwire (Turbo + Stimulus), WebSockets, Gamification systems  
+- **CI/CD & Deployment:** Git, GitHub Actions, Heroku  
+- **Cloud & Infrastructure:** Cloudinary, Active Storage, Webflow (for no-code projects)  
+- **Automation & Scripting:** Shell scripting, GitHub Copilot  
+- **Version Control & Collaboration:** Git, GitHub, Agile teamwork  
 
 ---
 
 ## 💡 Soft Skills
 
-- Problem-solving and debugging capabilities
-- Self-learning and adaptability to new technologies
-- Effective communication of **technical concepts** to various audiences
-- Experience in working with people, people management
+- Problem-solving and debugging capabilities  
+- Self-learning and adaptability to new technologies  
+- Effective communication of **technical concepts** to various audiences  
+- Experience in people management and team collaboration  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎮 Basketball Finder
-A gamified web application aimed at increasing fan engagement through interactive experiences.
+### 🏀 [CourtSideClub](https://www.courtsideclub.io)
+A platform that empowers basketball fans to actively participate in the management of a professional **3x3 basketball team**, creating a new era of fan engagement and democratic decision-making.  
 
-🔹 **Tech Stack:** Ruby on Rails, Stimulus.js, PostgreSQL, Heroku, WebSockets
-🔹 [🔗 Live Demo](https://www.findtheplayer.quest)
+**Tech Stack:** Ruby on Rails 7.1.5, PostgreSQL, Devise, Pundit, Active Storage, Cloudinary, Bootstrap 5.3, SCSS, Hotwire (Turbo + Stimulus)  
+**Features:** Fan voting system, gamification with progression & rewards, multilingual support, real-time notifications, complete admin interface  
 
-### 🛒 Les Pépites d'Elo
-Digital transformation of a **clothes store with a mother/daughter matchy matchy concept** in Amiens, optimizing online presence to maximize sales.
+---
 
-🔹 **Tech Stack:** Shopify, Liquid, JavaScript, Embedded CSS
-🔹 [🔗 Visit Store](https://lespepitesdelo.com/)
+### 🏀 [Tournament Go](https://www.tournamentgo.live)
+A **tournament management web app** developed urgently for a basketball club, now available for broader use by sports associations.  
 
-### 💼 My Portfolio
-A personal portfolio showcasing my **projects, experience, and skills**.
+**Tech Stack:** Ruby on Rails 7.1.5, PostgreSQL, Bootstrap 5, SCSS, Devise, Cloudinary, Heroku  
+**Features:** Tournament & bracket management, automatic rankings, referee scheduling, public pages, admin dashboard  
 
-🔹 **Tech Stack:** Ruby on Rails, Bootstrap, PostgreSQL, SMTP email integration
-🔹 [🔗 Portfolio Link](https://www.adrien-regis.site)
+---
 
-### 📚 Book Suggestion Delivery Web App
-A **React.js and Next.js** project designed to suggest and deliver curated book recommendations for avid readers.
+### 🎮 [Basketball Finder](https://www.findtheplayer.quest)
+A gamified web application aimed at increasing fan engagement through interactive experiences.  
 
-🔹 **Tech Stack:** React.js, Next.js, TypeScript, API integration
-🔹 *Coming soon...*
+**Tech Stack:** Ruby on Rails, Stimulus.js, PostgreSQL, Heroku, WebSockets  
 
-### 📂 42 School Projects
-A collection of my **École 42 projects**, reflecting my skills in **low-level programming, algorithms, and system architecture**.
+---
 
-🔹 **Tech Stack:** C, Shell Scripting, Algorithms, Data Structures
-🔹 [🔗 42 Projects Repo](https://github.com/Reaven23/Projets_42)
+### 🛒 [Les Pépites d'Elo](https://lespepitesdelo.com/)
+Digital transformation of a **clothes store with a mother/daughter matchy-matchy concept** in Amiens, optimizing online presence to maximize sales.  
+
+**Tech Stack:** Shopify, Liquid, JavaScript, Embedded CSS  
+
+---
+
+### 💼 [My Portfolio](https://www.adrien-regis.site)
+A personal portfolio showcasing my **projects, experience, and skills**.  
+
+**Tech Stack:** Ruby on Rails, Bootstrap, PostgreSQL, SMTP email integration  
+
+---
+
+### 📂 [42 School Projects](https://github.com/Reaven23/Projets_42)
+A collection of my **École 42 projects**, reflecting my skills in **low-level programming, algorithms, and system architecture**.  
+
+**Tech Stack:** C, Shell Scripting, Algorithms, Data Structures  
 
 ---
 
@@ -85,3 +97,4 @@ A collection of my **École 42 projects**, reflecting my skills in **low-level p
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=135851401)
+
