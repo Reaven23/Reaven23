@@ -23,7 +23,7 @@ Beyond coding, I have a wide range of interests, from **basketball, music, and s
 
 - **Languages & Frameworks:** Ruby on Rails, JavaScript, Stimulus.js, C, Shell Scripting, Next.js, Bootstrap, CSS/SCSS, Liquid  
 - **Backend & Databases:** PostgreSQL, Devise authentication, Pundit (authorization), API integration  
-- **Frontend & UX:** Hotwire (Turbo + Stimulus), WebSockets, Gamification systems  
+- **Frontend & UX:** Hotwire (Turbo + Stimulus), WebSockets  
 - **CI/CD & Deployment:** Git, GitHub Actions, Heroku  
 - **Cloud & Infrastructure:** Cloudinary, Active Storage, Webflow (for no-code projects)  
 - **Automation & Scripting:** Shell scripting, GitHub Copilot  
