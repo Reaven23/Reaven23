@@ -79,6 +79,14 @@ A personal portfolio showcasing my **projects, experience, and skills**.
 
 ---
 
+### 🌙 Dream Catcher
+Application d'**interprétation des rêves** avec IA, conçue principalement pour un usage personnel. Vous pouvez la tester ; pour demander l'accès aux **fonctionnalités special user**, envoyez-moi un message.
+
+**Tech Stack:** Ruby on Rails 7.1, PostgreSQL, Devise, Stimulus, Turbo, Bootstrap 5, OpenAI API  
+**Features:** Quiz de personnalisation, enregistrement de rêves, analyse IA, analyse globale, design mystique
+
+---
+
 ### 📂 [42 School Projects](https://github.com/Reaven23/Projets_42)
 A collection of my **École 42 projects**, reflecting my skills in **low-level programming, algorithms, and system architecture**.  
 
