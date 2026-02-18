@@ -50,7 +50,7 @@ A platform that empowers basketball fans to actively participate in the manageme
 
 ---
 
-### 🏀 [Tournament Go](https://www.tournamentgo.live)
+### 🏀 Tournament Go
 A **tournament management web app** developed urgently for a basketball club, now available for broader use by sports associations.  
 
 **Tech Stack:** Ruby on Rails 7.1.5, PostgreSQL, Bootstrap 5, SCSS, Devise, Cloudinary, Heroku  
@@ -58,7 +58,7 @@ A **tournament management web app** developed urgently for a basketball club, no
 
 ---
 
-### 🎮 [Basketball Finder](https://www.findtheplayer.quest)
+### 🎮 Basketball Finder
 A gamified web application aimed at increasing fan engagement through interactive experiences.  
 
 **Tech Stack:** Ruby on Rails, Stimulus.js, PostgreSQL, Heroku, WebSockets  
@@ -72,7 +72,7 @@ Digital transformation of a **clothes store with a mother/daughter matchy-matchy
 
 ---
 
-### 💼 [My Portfolio](https://www.adrien-regis.site)
+### 💼 My Portfolio
 A personal portfolio showcasing my **projects, experience, and skills**.  
 
 **Tech Stack:** Ruby on Rails, Bootstrap, PostgreSQL, SMTP email integration  
